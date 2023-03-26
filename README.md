@@ -11,6 +11,12 @@ The project is written in C++ and uses the C++ standard library. It's compiled w
 
 ## How to run
 
+First of all, clone the project to your local machine:
+
+```bash
+git clone https://github.com/tanercelikkiran/discrete-event-simulation.git
+```
+
 To compile the project, run the following command in the project directory:
 
 ```bash
